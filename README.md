@@ -1,2 +1,2 @@
 # tails
-Headless CMS based in Rails
+Headless CMS based in Rails + NextJS
